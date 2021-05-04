@@ -1,6 +1,7 @@
 public class K { 
   void d() {
     
-    int x = 10;
+    int xyy = 1230;
+    String s= "";
   }
 }
